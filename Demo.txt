@@ -2,5 +2,8 @@ Name : Devops_Learning
 MobileNumber : 999999999
 PAN : ABCXXXX101
 ADDRESS : banglaore.
+Email: Nayeem@java.com
+PINCODE: 323232
+
 
 
