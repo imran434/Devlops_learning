@@ -1,6 +1,0 @@
-i'm from recursive merge example
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbb
-=======
->>>>>>> def1
