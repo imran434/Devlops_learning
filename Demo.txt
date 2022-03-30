@@ -11,9 +11,3 @@ Team size : 6
 Company Name : Wipro
 Working on main branch
 
-
-
-
-
-
-added some text
