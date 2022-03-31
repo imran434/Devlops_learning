@@ -1,1 +1,2 @@
 git cherry pick demo
+Git stash example

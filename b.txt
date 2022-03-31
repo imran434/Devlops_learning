@@ -1,0 +1,5 @@
+one more line added to b file
+bbbbb
+bbbbbbbbbb
+trying to understand the stash
+
